@@ -13,3 +13,5 @@ Aligned and annotated files themselves can be found in the **texts** folder:
 + processed_xml - processed parallel texts, ready to be included in the parallel subcorpus of the Russian National Corpus
 + processed_jsons - processed parallel texts ready for entry into Tsacorpus
 + auto-aligned - parallel texts awaiting manual rechecking
+## Data processing
+The main code that processes the data is in **term_notebook**.
