@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="ru" variant_id="0">Праведный судья</se>
+    <se lang="hy" variant_id="1">समझदार जज</se>
+    <weight variant_id="1">0,1</weight>
+  </para>
+  <para id="1">
+    <se lang="ru" variant_id="0">Лев Толстой</se>
+    <se lang="hy" variant_id="1">लेव तोल्सतोय</se>
+    <weight variant_id="1">0,272727</weight>
+  </para>
+  <para id="2">
+    <se lang="ru" variant_id="0">Один алжирский царь Бауакас захотел сам узнать, правду ли ему говорили, что в одном из его городов есть праведный судья, что он сразу узнаёт правду и что от него ни один плут не может укрыться.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="3">
+    <se lang="ru" variant_id="0">Бауакас переоделся в купца и поехал верхом на лошади в тот город, где жил судья.</se>
+    <se lang="hy" variant_id="1">बहुत पहले की बात है। अफ्रीका में एक देश हे अल्जीरिया। बाऊकास वहां के राजा थे। उनके</se>
+    <weight variant_id="1">0,3</weight>
+  </para>
+  <para id="4">
+    <se lang="ru" variant_id="0">У въезда в город к Бауакасу подошел калека и стал просить милостыню.</se>
+    <se lang="hy" variant_id="1">राज्य में एक समझदार जज थे - जो झट से दूध-का-दुध और पानी-का-पानी कर देते। कोई भी</se>
+    <weight variant_id="1">0,268966</weight>
+  </para>
+  <para id="5">
+    <se lang="ru" variant_id="0">Бауакас подал ему и хотел ехать дальше, но калека уцепился ему за платье.</se>
+    <se lang="hy" variant_id="1">मुजरिम उनकी पैनी आंखों से नहीं बच पाता। उनकी ख्याति दूर-दूर तक फैली थी।</se>
+    <weight variant_id="1">0,284746</weight>
+  </para>
+  <para id="6">
+    <se lang="ru" variant_id="0">«Что тебе нужно? — спросил Бауакас. ~~~ — Разве я не дал тебе милостыню?»</se>
+    <se lang="hy" variant_id="1">एक दिन राजा ने भेष बदल कर खुद जज की परीक्षा लेने की सोची। वो घोड़े पर सवार होकर</se>
+    <weight variant_id="1">-0,005</weight>
+  </para>
+  <para id="7">
+    <se lang="ru" variant_id="0">— «Милостыню ты дал,— сказал калека,— но еще сделай милость — довези меня на твоей лошади до площади, а то лошади и верблюды как бы не раздавили меня».</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="8">
+    <se lang="ru" variant_id="0">Бауакас посадил калеку сзади себя и довез его до площади. ~~~ На площади Бауакас остановил лошадь.</se>
+    <se lang="hy" variant_id="1">जज के शहर की ओर चले। शहर के मुख्य दरवाजे पर उन्हें एक अपंग भिखारी दिखा। राजा ने</se>
+    <weight variant_id="1">-0,0428571</weight>
+  </para>
+  <para id="9">
+    <se lang="ru" variant_id="0">Но нищий не слезал.</se>
+    <se lang="hy" variant_id="1">उसे कुछ पैसे दिए।</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="10">
+    <se lang="ru" variant_id="0">Бауакас сказал: «Что ж сидишь, слезай, мы приехали».</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="11">
+    <se lang="ru" variant_id="0">А нищий сказал: «Зачем слезать, — лошадь моя; а не хочешь добром отдать лошадь, пойдем к судье».</se>
+    <se lang="hy" variant_id="1">भिखारी ने राजा से विनती की, “मैं चल नहीं सकता, कृपा मुझे अगले चौक तक छोड़ दें।!</se>
+    <weight variant_id="1">0,220312</weight>
+  </para>
+  <para id="12">
+    <se lang="ru" variant_id="0">Народ собрался вокруг них и слушал, как они спорили; все закричали: «Ступайте к судье, он вас рассудит».</se>
+    <se lang="hy" variant_id="1">राजा ने भिखारी को घोड़े पर बेठाया। शहर के चौक पर पहुंचने के बाद राजा ने भिखारी से उतरने</se>
+    <weight variant_id="1">0,218571</weight>
+  </para>
+  <para id="13">
+    <se lang="ru" variant_id="0">Бауакас с калекой пошли к судье.</se>
+    <se lang="hy" variant_id="1">को कहा। ~~~ “तुम उतरो!</se>
+    <weight variant_id="1">-0,0833333</weight>
+  </para>
+  <para id="14">
+    <se lang="ru" variant_id="0">В суде был народ, и судья вызывал по очереди тех, кого судил.</se>
+    <se lang="hy" variant_id="1">यह घोड़ा तो मेरा है!”</se>
+    <weight variant_id="1">-0,25</weight>
+  </para>
+  <para id="15">
+    <se lang="ru" variant_id="0">Прежде чем черед дошел до Бауакаса, судья вызвал ученого и мужика: они судились за жену.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="16">
+    <se lang="ru" variant_id="0">Мужик говорил, что это его жена, а ученый говорил, что его жена.</se>
+    <se lang="hy" variant_id="1">भिखारी ने दावा किया। देखते-देखते वहां पर लोगों की भीड़</se>
+    <weight variant_id="1">0,247826</weight>
+  </para>
+  <para id="17">
+    <se lang="ru" variant_id="0">Судья выслушал их, помолчал и сказал: «Оставьте женщину у меня, а сами приходите завтра».</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="18">
+    <se lang="ru" variant_id="0">Когда эти ушли, вошли мясник и масленник.</se>
+    <se lang="hy" variant_id="1">इकटूठी हो गई।</se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="19">
+    <se lang="ru" variant_id="0">Мясник был весь в крови, а масленник в масле.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="20">
+    <se lang="ru" variant_id="0">Мясник держал в руке деньги, масленник — руку мясника.</se>
+    <se lang="hy" variant_id="1">“घोड़ा किसका है इसका निर्णय जज साहब ही करेंगे,&apos; लोगों ने कहा।</se>
+    <weight variant_id="1">0,274468</weight>
+  </para>
+  <para id="21">
+    <se lang="ru" variant_id="0">Мясник сказал: «Я купил у этого человека масло и вынул кошелек, чтобы расплатиться, а он схватил меня за руку и хотел отнять деньги.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="22">
+    <se lang="ru" variant_id="0">Так мы и пришли к тебе,— я держу в руке кошелек, а он держит меня за руку.</se>
+    <se lang="hy" variant_id="1">राजा और भिखारी जज के पास गए। कचहरी में काफी भीड़ जमा थी। जज, लोगों को बारी-बारी</se>
+    <weight variant_id="1">0,274576</weight>
+  </para>
+  <para id="23">
+    <se lang="ru" variant_id="0">Но деньги мои, а он — вор».</se>
+    <se lang="hy" variant_id="1">से बुला रहे थे।</se>
+    <weight variant_id="1">0,0923077</weight>
+  </para>
+  <para id="24">
+    <se lang="ru" variant_id="0">А масленник сказал: «Это неправда. ~~~ Мясник пришел ко мне покупать масло.</se>
+    <se lang="hy" variant_id="1">सबसे पहले जज ने एक लेखक और किसान को बुलाया। उनके साथ एक महिला भी थी।</se>
+    <weight variant_id="1">-0,0277778</weight>
+  </para>
+  <para id="25">
+    <se lang="ru" variant_id="0">Когда я налил ему полный кувшин, он просил меня разменять ему золотой.</se>
+    <se lang="hy" variant_id="1">लेखक और किसान दोनों उस महिला के अपनी पत्नी होने का दावा कर रहे थे।</se>
+    <weight variant_id="1">0,260377</weight>
+  </para>
+  <para id="26">
+    <se lang="ru" variant_id="0">Я достал деньги и положил их на лавку, а он взял их и хотел бежать.</se>
+    <se lang="hy" variant_id="1">जज ने दोनों पक्षों की दलीलें सुनकर कहा, महिला को आज यहीं छोड़ दो और कल आओ।&apos;</se>
+    <weight variant_id="1">0,266667</weight>
+  </para>
+  <para id="27">
+    <se lang="ru" variant_id="0">Я поймал его за руку и привел сюда».</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="28">
+    <se lang="ru" variant_id="0">Судья помолчал и сказал: «Оставьте деньги здесь и приходите завтра».</se>
+    <se lang="hy" variant_id="1">उसके बाद जज के सामने एक कसाई और तेली की पेशी हुई। कसाई के कपड़ों पर खून के छींटे</se>
+    <weight variant_id="1">0,285</weight>
+  </para>
+  <para id="29">
+    <se lang="ru" variant_id="0">Когда очередь дошла до Бауакаса и до калеки, Бауакас рассказал, как было дело.</se>
+    <se lang="hy" variant_id="1">पड़े थे और तेली के हाथ तेल से सने थे। कसाई के हाथ में पैसों की एक थेली थी। दोनों पक्ष</se>
+    <weight variant_id="1">0,295455</weight>
+  </para>
+  <para id="30">
+    <se lang="ru" variant_id="0">Судья выслушал его и спросил нищего.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="31">
+    <se lang="ru" variant_id="0">Нищий сказал: «Это все неправда.</se>
+    <se lang="hy" variant_id="1">उस थैली को अपना बता रहे थे।</se>
+    <weight variant_id="1">0,204545</weight>
+  </para>
+  <para id="32">
+    <se lang="ru" variant_id="0">Я ехал верхом через город, а он сидел на земле и просил меня подвезти его.</se>
+    <se lang="hy" variant_id="1">जज ने कुछ देर सोच कर कहा, “पैसों की थेली यहीं छोड़ दो और कल आओ।&apos;</se>
+    <weight variant_id="1">0,234</weight>
+  </para>
+  <para id="33">
+    <se lang="ru" variant_id="0">Я посадил его на лошадь и довез, куда ему нужно было; но он не хотел слезать и сказал, что лошадь его. ~~~ Это неправда».</se>
+    <se lang="hy" variant_id="1">अंत में जज ने राजा और भिखारी की दलीलें सुनीं। दोनों पक्ष घोड़े पर अपना-अपना दावा पेश</se>
+    <weight variant_id="1">-0,0304348</weight>
+  </para>
+  <para id="34">
+    <se lang="ru" variant_id="0">Судья подумал и сказал: «Оставьте лошадь у меня и приходите завтра».</se>
+    <se lang="hy" variant_id="1">कर रहे थे। जज ने कुछ देर सोच कर कहा, “घोड़े को यहीं छोड़ दो और कल आओ।&apos;</se>
+    <weight variant_id="1">0,272222</weight>
+  </para>
+  <para id="35">
+    <se lang="ru" variant_id="0">На другой день собралось много народа слушать, как рассудит судья.</se>
+    <se lang="hy" variant_id="1">जज के निर्णय को सुनने के लिए अगले दिन कचहरी में लोगों का बड़ा हुजूम जमा हुआ।</se>
+    <weight variant_id="1">0,284483</weight>
+  </para>
+  <para id="36">
+    <se lang="ru" variant_id="0">Первые подошли ученый и мужик.</se>
+    <se lang="hy" variant_id="1">सबसे पहले लेखक और किसान की बारी आई।</se>
+    <weight variant_id="1">0,277778</weight>
+  </para>
+  <para id="37">
+    <se lang="ru" variant_id="0">— Возьми свою жену, — сказал судья ученому, — а мужику дать пятьдесят палок.</se>
+    <se lang="hy" variant_id="1">“यह महिला आपकी पत्नी हैं। आप उन्हें ले जा सकते हैं,&apos; जज ने लेखक से कहा। साथ में</se>
+    <weight variant_id="1">0,295238</weight>
+  </para>
+  <para id="38">
+    <se lang="ru" variant_id="0">— Ученый взял свою жену, а мужика тут же наказали.</se>
+    <se lang="hy" variant_id="1">उन्होंने किसान को पचास कोडे लगाने का हुक्म भी दिया।</se>
+    <weight variant_id="1">0,292857</weight>
+  </para>
+  <para id="39">
+    <se lang="ru" variant_id="0">Потом судья вызвал мясника.</se>
+    <se lang="hy" variant_id="1">उसके बाद कसाई और तेली की बारी आई।</se>
+    <weight variant_id="1">0,276</weight>
+  </para>
+  <para id="40">
+    <se lang="ru" variant_id="0">— Деньги твои,— сказал он мяснику; потом он указал на масленника и сказал ему:</se>
+    <se lang="hy" variant_id="1">जज ने कसाई को बुलाकर कहा, “लो, यह पैसों की थेली तुम्हारी है।&apos; साथ में उन्होंने तेली को</se>
+    <weight variant_id="1">0,281818</weight>
+  </para>
+  <para id="41">
+    <se lang="ru" variant_id="0">— А ему дать пятьдесят палок.</se>
+    <se lang="hy" variant_id="1">पचास कोड़ों की सजा सुनाई।</se>
+    <weight variant_id="1">0,259091</weight>
+  </para>
+  <para id="42">
+    <se lang="ru" variant_id="0">Тогда позвали Бауакаса и калеку.</se>
+    <se lang="hy" variant_id="1">अंत में जज ने राजा और किसान को बुलाया।</se>
+    <weight variant_id="1">0,27931</weight>
+  </para>
+  <para id="43">
+    <se lang="ru" variant_id="0">«Узнаешь ты свою лошадь из двадцати других?» — спросил судья Бауакаса.</se>
+    <se lang="hy" variant_id="1">“क्या तुम बीस घोड़ों में से अपने घोड़े को पहचान पाओगे,&apos; उन्होंने राजा और भिखारी दोनों से</se>
+    <weight variant_id="1">0,240984</weight>
+  </para>
+  <para id="44">
+    <se lang="ru" variant_id="0">— Узнаю. ~~~ — А ты?</se>
+    <se lang="hy" variant_id="1">पूछा। दोनों ने “हां!</se>
+    <weight variant_id="1">-0,03</weight>
+  </para>
+  <para id="45">
+    <se lang="ru" variant_id="0">— И я узнаю, — сказал калека. ~~~ — Иди за мною,— сказал судья Бауакасу.</se>
+    <se lang="hy" variant_id="1">में उत्तर दिया। एक-एक करके जज दोनों को अस्तबल में लेकर गए। दोनों ने</se>
+    <weight variant_id="1">-0,00818182</weight>
+  </para>
+  <para id="46">
+    <se lang="ru" variant_id="0">Они пошли в конюшню.</se>
+    <se lang="hy" variant_id="1">घोडे को सही-सही पहचाना।</se>
+    <weight variant_id="1">0,25</weight>
+  </para>
+  <para id="47">
+    <se lang="ru" variant_id="0">Бауакас сейчас же промеж других двадцати лошадей показал на свою.</se>
+    <se lang="hy" variant_id="1">कुछ देर गहरे सोच-विचार के बाद जज ने राजा का बुलाकर कहा, “यह घोड़ा आपका है आप</se>
+    <weight variant_id="1">0,278947</weight>
+  </para>
+  <para id="48">
+    <se lang="ru" variant_id="0">Потом судья вызвал калеку в конюшню и тоже велел ему указать на лошадь.</se>
+    <se lang="hy" variant_id="1">इसे ले जा सकते हैं।&apos; साथ में उन्होंने भिखारी को पचास कोड़ों की सजा भी सुनाई।</se>
+    <weight variant_id="1">0,29</weight>
+  </para>
+  <para id="49">
+    <se lang="ru" variant_id="0">Калека признал лошадь и показал ее.</se>
+    <se lang="hy" variant_id="1">घर जाते वक्‍त राजा भी जज के पीछे-पीछे चलने लगे।</se>
+    <weight variant_id="1">0,222581</weight>
+  </para>
+  <para id="50">
+    <se lang="ru" variant_id="0">Тогда судья сел на свое место и сказал Бауакасу:</se>
+    <se lang="hy" variant_id="1">राजा को देखकर जज ने पूछा, &apos;क्या आप मेरे निर्णय से असंतुष्ट हैं?&apos;</se>
+    <weight variant_id="1">0,212195</weight>
+  </para>
+  <para id="51">
+    <se lang="ru" variant_id="0">— Лошадь твоя: возьми ее. ~~~ А калеке дать пятьдесят палок.</se>
+    <se lang="hy" variant_id="1">“जनाब मैं बिल्कुल संतुष्ट हूं पर यह जानना चाहता हूं कि आप इन निर्णयों पर कैसे पहुंचे?”</se>
+    <weight variant_id="1">-0,063</weight>
+  </para>
+  <para id="52">
+    <se lang="ru" variant_id="0">После суда судья пошел домой, а Бауакас пошел за ним.</se>
+    <se lang="hy" variant_id="1">“काफी आसान था,&apos; जज साहब ने मुस्कुराते हुए बोले। &apos;सुबह-सुबह मैंने महिला से दवात में</se>
+    <weight variant_id="1">0,14</weight>
+  </para>
+  <para id="53">
+    <se lang="ru" variant_id="0">— Что же ты, или не доволен моим решением? — спросил судья. ~~~ — Нет, я доволен,— сказал Бауакас.</se>
+    <se lang="hy" variant_id="1">स्याही भरने को कहा। महिला ने इस काम को बडे करीने से अंजाम दिया। इससे मुझे लगा कि</se>
+    <weight variant_id="1">-0,0375</weight>
+  </para>
+  <para id="54">
+    <se lang="ru" variant_id="0">— Только хотелось бы мне знать, почем ты узнал, что жена была ученого, а не мужика, что деньги были мясниковы, а не масленниковы и что лошадь была моя, а не нищего?</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="55">
+    <se lang="ru" variant_id="0">— Про женщину я узнал вот как: позвал ее утром к себе и сказал ей: налей чернил в мою чернильницу.</se>
+    <se lang="hy" variant_id="1">वो लेखक की पत्नी ही होंगी। जहां तक पैसों की थैली की बात हे मैंने सोते वक्‍त सिक्कों को</se>
+    <weight variant_id="1">0,252174</weight>
+  </para>
+  <para id="56">
+    <se lang="ru" variant_id="0">Она взяла чернильницу, вымыла ее скоро и ловко и налила чернил.</se>
+    <se lang="hy" variant_id="1">एक पानी के बर्तन में डाल दिया। सुबह देखा तो पानी में कोई तेल नहीं दिखा। अगर तेली के</se>
+    <weight variant_id="1">0,233333</weight>
+  </para>
+  <para id="57">
+    <se lang="ru" variant_id="0">Стало быть, она привыкла это делать.</se>
+    <se lang="hy" variant_id="1">पैसे होते तो पानी पर जरूर कुछ तेल तैरता। इससे लगा कि पैसे कसाई के होंगे।&apos;</se>
+    <weight variant_id="1">0,046875</weight>
+  </para>
+  <para id="58">
+    <se lang="ru" variant_id="0">Будь она жена мужика, она не сумела бы этого сделать. ~~~ Выходит, что ученый был прав.</se>
+    <se lang="hy" variant_id="1">“घोड़े का मामला जरूर कुछ पेंचीदा था। मैं आप दोनों को अस्तबल में घोड़े की पहचान करने</se>
+    <weight variant_id="1">-0,00882353</weight>
+  </para>
+  <para id="59">
+    <se lang="ru" variant_id="0">— Про деньги я узнал вот как: положил я деньги в чашку с водой и сегодня утром посмотрел — всплыло ли на воде масло.</se>
+    <se lang="hy" variant_id="1">नहीं ले गया था। दरअसल, मैं देखना चाहता था कि घोड़ा आपको पहचाता हे, या नहीं। जब</se>
+    <weight variant_id="1">0,152381</weight>
+  </para>
+  <para id="60">
+    <se lang="ru" variant_id="0">Если бы деньги были масленниковы, то они были бы запачканы его маслеными руками.</se>
+    <se lang="hy" variant_id="1">आप घोड़े के पास गए तो घोड़े ने अपना सिर हिलाया और गर्दन आपकी ओर घुमाई। पर</se>
+    <weight variant_id="1">0,243103</weight>
+  </para>
+  <para id="61">
+    <se lang="ru" variant_id="0">На воде масла не было, стало быть, мясник говорит правду.</se>
+    <se lang="hy" variant_id="1">भिखारी को देखकर घोड़े ने अपनी एक टांग ऊपर उठाई। इससे मुझे स्पष्ट हुआ कि आप ही</se>
+    <weight variant_id="1">0,220408</weight>
+  </para>
+  <para id="62">
+    <se lang="ru" variant_id="0">— Про лошадь узнать было труднее.</se>
+    <se lang="hy" variant_id="1">घोडे के सही मालिक होंगे।&apos;</se>
+    <weight variant_id="1">0,204545</weight>
+  </para>
+  <para id="63">
+    <se lang="ru" variant_id="0">Калека так же, как и ты, из двадцати лошадей сейчас же указал на лошадь.</se>
+    <se lang="hy" variant_id="1">फिर राजा ने जज से कहा, “मैं राजा बाऊकौस हूं। मैंने आपके इंसाफ की बहुत तारीफ सुनी थी।</se>
+    <weight variant_id="1">0,26</weight>
+  </para>
+  <para id="64">
+    <se lang="ru" variant_id="0">Да я не для того приводил вас обоих в конюшню, чтобы видеть, узнаете ли вы лошадь, а для того, чтобы видеть — кого из вас двоих узнает лошадь.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="65">
+    <se lang="ru" variant_id="0">Когда ты подошел к ней, она обернула голову, потянулась к тебе; а когда калека тронул ее, она прижала уши и подняла ногу.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="66">
+    <se lang="ru" variant_id="0">По этому я узнал, что ты настоящий хозяин лошади. ~~~ Тогда Бауакас сказал:</se>
+    <se lang="hy" variant_id="1">मैं उसी की पुष्टि के लिए आया था। आप वाकई एक काबिल न्यायाधीश हैं। आप मुझसे जो</se>
+    <weight variant_id="1">-0,00491803</weight>
+  </para>
+  <para id="67">
+    <se lang="ru" variant_id="0">— Я не купец, а царь Бауакас.</se>
+    <se lang="hy" variant_id="1">पुरुस्कार मांगेंगे वो आपको मिलेगा।&apos;</se>
+    <weight variant_id="1">0,2</weight>
+  </para>
+  <para id="68">
+    <se lang="ru" variant_id="0">Я приехал сюда, чтобы видеть, правда ли то, что говорят про тебя.</se>
+    <se lang="hy" variant_id="1">“मुझे कोई इनाम नहीं चाहिए,&apos; जज ने नम्रतापूर्वक कहा, “राजा की प्रशंसा ही मेरे लिए सबसे</se>
+    <weight variant_id="1">0,212727</weight>
+  </para>
+  <para id="69">
+    <se lang="ru" variant_id="0">Я вижу теперь, что ты мудрый судья.</se>
+    <se lang="hy" variant_id="1">बड़ा तौहफा है।</se>
+    <weight variant_id="1">-0,0923077</weight>
+  </para>
+  <para id="70">
+    <se lang="ru" variant_id="0">Проси у меня, чего хочешь, я награжу тебя.</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+  <para id="71">
+    <se lang="ru" variant_id="0">Судья сказал: «Мне не нужно награды; я счастлив уже тем, что царь мой похвалил меня».</se>
+    <se lang="hy" variant_id="1"></se>
+    <weight variant_id="1">-0,3</weight>
+  </para>
+</body>
+</html>
