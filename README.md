@@ -15,3 +15,5 @@ Aligned and annotated files themselves can be found in the **texts** folder:
 + auto-aligned - parallel texts awaiting manual rechecking
 ## Data processing
 The main code that processes the data is in **term_notebook**.
+## Useful sources
+https://github.com/AI4Bharat/indicnlp_catalog
